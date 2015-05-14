@@ -12,7 +12,7 @@ for (var i=0; i<81; i++) {
 	document.body.appendChild(newDiv);
 };
 
-for (var i=0; i<81; i++) {
+/*for (var i=0; i<81; i++) {
 	var newDiv = document.createElement("div");
 	newDiv.style.width = "11.1%";
 	newDiv.style.float = "left";
@@ -37,3 +37,4 @@ for (var i=0; i<81; i++) {
 
 	document.body.appendChild(newDiv);
 }
+*/
